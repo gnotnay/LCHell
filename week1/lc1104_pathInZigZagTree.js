@@ -30,7 +30,7 @@ var pathInZigZagTree = function(label) {
 
 const findLevel = (target) => {
     let level = 0;
-    let start = 2 ** level, end = 2 ** (level + 1) - 1;
+    let end = 2 ** (level + 1) - 1;
 
     while (target > end) {
         level++;
