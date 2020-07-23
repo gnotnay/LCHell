@@ -14,12 +14,12 @@ var pathInZigZagTree = function(label) {
     while (labelLevel >= 0) {
         ret.push(label);
         if (isOddLevel) {// 替换成原来的数，再除以2
-            label = replaceNumer(2**labelLevel, 2**(labelLevel+1)-1, label);
+            label = replaceNumber(2**labelLevel, 2**(labelLevel+1)-1, label);
             label = label >> 1; 
             
         } else {// 除以2，再替换成原来的数
             label = label >> 1;
-            label = replaceNumer(2**(labelLevel-1), 2**(labelLevel)-1, label);
+            label = replaceNumber(2**(labelLevel-1), 2**(labelLevel)-1, label);
         }
         isOddLevel = !isOddLevel;
         labelLevel--;
@@ -40,6 +40,6 @@ const findLevel = (target) => {
     return level;
 }
 
-const replaceNumer = (start, end, curr) => {
+const replaceNumber = (start, end, curr) => {
     return end - curr + start; 
 }
