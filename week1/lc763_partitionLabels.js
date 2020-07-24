@@ -36,3 +36,31 @@ var partitionLabels = function(s) {
     
     return ret;
 };
+
+
+var partitionLabels2 = function(S) {
+    let partitionLength = [];
+    let lastIndexes = Array(26).fill(0);
+    
+    for (let i = 0; i < S.length; i++) {
+        lastIndexes[S.charCodeAt(i) - 'a'.charCodeAt(0)] = i;
+    }
+    
+    let left = 0;
+    while (left < S.length) {
+        
+        let end = lastIndexes[S.charCodeAt(left) - 'a'.charCodeAt(0)];
+        let right = left;
+        
+        while (right != end) {
+            end = Math.max(end, lastIndexes[S.charCodeAt(right) - 'a'.charCodeAt(0)]);
+            right++;
+        }
+        
+        partitionLength.push(right - left + 1);
+        left = right + 1;
+    }
+    
+    return partitionLength;
+    
+};
