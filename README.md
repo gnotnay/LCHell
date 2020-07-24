@@ -10,6 +10,7 @@
 11. 拿到offer需要给每个人发（在组时日*1元）红包，相互鼓励
 12. 新组员刷题量（leetcode）不得低于现有小组组员最小值
 13. 友好交流，不得言语嘲讽，消极回答
+14. 利用VScode
 
 ## Week1  
 [103. Binary Tree Zigzag Level Order Traversal (M)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
