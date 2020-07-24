@@ -6,7 +6,7 @@ var partitionLabels = function(s) {
     let ret = [];
     let left = 0, right = 0;
     let tempLength = 1;
-    let set = new Set();
+    let set = new Set(); // store visited, can replaced by array
     
     let last = new Array(26).fill(0);
     
