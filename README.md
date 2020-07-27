@@ -20,4 +20,4 @@
 [875. Koko Eating Bananas (M)](https://leetcode.com/problems/koko-eating-bananas/)  
 [392. Is Subsequence (E)](https://leetcode.com/problems/is-subsequence/)  
 [430. Flatten a Multilevel Doubly Linked List (M)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  
-
+[378. Kth Smallest Element in a Sorted Matrix (M)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  
