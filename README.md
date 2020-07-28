@@ -24,5 +24,5 @@
 [1529. Bulb Switcher IV (M)](https://leetcode.com/problems/bulb-switcher-iv/)  
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)  
 
-## Week1  
+## Week2  
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
