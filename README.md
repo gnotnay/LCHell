@@ -12,12 +12,14 @@
 12. 友好交流，不得言语嘲讽，消极回答
 13. Happy Coding!
 
-## Week1
-
+## Week1  
 [103. Binary Tree Zigzag Level Order Traversal (M)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
 [1104. Path In Zigzag Labelled Binary Tree (M)](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  
 [763. Partition Labels (M)](https://leetcode.com/problems/partition-labels/)  
 [875. Koko Eating Bananas (M)](https://leetcode.com/problems/koko-eating-bananas/)  
 [392. Is Subsequence (E)](https://leetcode.com/problems/is-subsequence/)  
 [430. Flatten a Multilevel Doubly Linked List (M)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  
-
+[378. Kth Smallest Element in a Sorted Matrix (M)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  
+[154. Find Minimum in Rotated Sorted Array II (H)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)  
+[1529. Bulb Switcher IV (M)](https://leetcode.com/problems/bulb-switcher-iv/)  
+[1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)  
