@@ -26,3 +26,4 @@
 
 ## Week2  
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
+[934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
