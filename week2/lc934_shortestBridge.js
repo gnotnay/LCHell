@@ -1,3 +1,6 @@
+// Runtime: 120 ms, faster than 61.57% 
+// Memory Usage: 42 MB, less than 93.75%
+
 /**
  * @param {number[][]} A
  * @return {number}
