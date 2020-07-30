@@ -51,7 +51,7 @@ var shortestBridge = function(A) {
     return ret;
 };
 const dfs = (A, i, j, queue) => {
-    if(i < 0 || i >= A.length || j < 0 || j >= A[0].length || A[i][j] !== 1)  return;
+    if(!isValidPoint(A, i, j) || A[i][j] !== 1) return
     A[i][j] = 2;
     
     queue.push([i,j]);
