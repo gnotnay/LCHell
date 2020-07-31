@@ -22,8 +22,10 @@
 [378. Kth Smallest Element in a Sorted Matrix (M)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  
 [154. Find Minimum in Rotated Sorted Array II (H)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)  
 [1529. Bulb Switcher IV (M)](https://leetcode.com/problems/bulb-switcher-iv/)  
+[209. Minimum Size Subarray Sum (M)](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/)  
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)  
 
 ## Week2  
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
+[934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
