@@ -20,14 +20,43 @@ var shortestBridge = function(A) {
             }
         }
     }    
+ //solution 1, use shift() without tempQueue    
+    // let ret = 0;
+    // while (queue.length > 0) {
+    //     let size = queue.length;
+    //     for (let i = 0; i < size; i++) {
+    //         let curr = queue.shift();
     
+    //         let x = curr[0];
+    //         let y = curr[1];
+            
+    //         for (let j = 0; j < 4; j++) {
+    //             let nextX = x + dx[j];
+    //             let nextY = y + dy[j];
+                
+                
+    //             if (isValidPoint(A, nextX, nextY) && A[nextX][nextY] === 0) {
+    //                 queue.push([nextX, nextY]);
+    //                 A[nextX][nextY] = 2;
+    //             }
+    //             if (isValidPoint(A, nextX, nextY) && A[nextX][nextY] === 1) {
+    //                 return ret;
+    //             }
+    //         }  
+    //     }
+    //     ret++;
+    // }
+    // return ret;
+
+    //solution 2: use pop() with teamQueue.
     let ret = 0;
     
-    while (queue.length > 0) {
+    while (true) {
         let size = queue.length;
+        let tempQueue = [];
         for (let i = 0; i < size; i++) {
-            let curr = queue.shift();
-    
+            let curr = queue.pop();
+            
             let x = curr[0];
             let y = curr[1];
             
@@ -37,7 +66,7 @@ var shortestBridge = function(A) {
                 
                 
                 if (isValidPoint(A, nextX, nextY) && A[nextX][nextY] === 0) {
-                    queue.push([nextX, nextY]);
+                    tempQueue.push([nextX, nextY]);
                     A[nextX][nextY] = 2;
                 }
                 if (isValidPoint(A, nextX, nextY) && A[nextX][nextY] === 1) {
@@ -45,6 +74,7 @@ var shortestBridge = function(A) {
                 }
             }  
         }
+        queue = tempQueue;
         ret++;
     }
     
