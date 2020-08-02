@@ -20,7 +20,7 @@ var validateBinaryTreeNodes = function(n, leftChild, rightChild) {
     if (ret.length !== 1) return false; // find multiple roots => return false
     
     if (n === 1) { // corner special case: one root should have no left and right leaf
-        if (leftChild[0] === -1 & rightChild[0] === -1) return true;
+        if (leftChild[0] === -1 && rightChild[0] === -1) return true;
         return false;
     }
     
