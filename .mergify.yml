@@ -1,7 +1,7 @@
 pull_request_rules:
   - name: Automatic merge on approval
     conditions:
-      - "#approved-reviews-by>=2"
+      - "#approved-reviews-by>=3"
       - base=master
     actions:
       merge:
@@ -16,4 +16,4 @@ pull_request_rules:
       - conflict
     actions:
         comment:
-          message: This pull request is now in conflicts. Could you fix it @{{author}}? 🙏
+          message: This pull request is now in conflicts. Could you fix it @{{author}}?
