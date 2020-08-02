@@ -29,3 +29,4 @@
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
 [934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
+[723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
