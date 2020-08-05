@@ -31,3 +31,6 @@
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
 [1361. Validate Binary Tree Nodes (M)](https://leetcode.com/problems/validate-binary-tree-nodes/)  
 [723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
+
+## Week2  
+[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)  
