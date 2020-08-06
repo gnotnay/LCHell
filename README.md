@@ -33,3 +33,6 @@
 [723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 
+## Week2  
+[146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
+[352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
