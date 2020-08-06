@@ -32,4 +32,8 @@
 [1361. Validate Binary Tree Nodes (M)](https://leetcode.com/problems/validate-binary-tree-nodes/)  
 [723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
+[15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
+[16. 3Sum  closest(M)](https://leetcode.com/problems/3sum-closest/)  
+[259. 3Sum  smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
+[454. 4Sumii(M)](https://leetcode.com/problems/4sum-ii/)  
 
