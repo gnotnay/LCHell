@@ -37,3 +37,6 @@
 [259. 3Sum  smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
 [454. 4Sumii(M)](https://leetcode.com/problems/4sum-ii/)  
 
+## Week2  
+[146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
+[352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
