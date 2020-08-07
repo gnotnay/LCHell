@@ -34,4 +34,8 @@
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 
 ## Week3  
+[15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
+[16. 3Sum  closest(M)](https://leetcode.com/problems/3sum-closest/)  
+[259. 3Sum  smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
+[454. 4Sumii(M)](https://leetcode.com/problems/4sum-ii/)  
 [454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/) 
