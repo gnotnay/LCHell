@@ -33,17 +33,20 @@
 [1361. Validate Binary Tree Nodes (M)](https://leetcode.com/problems/validate-binary-tree-nodes/)  
 [723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
-[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/) 
+[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)  
 
 ## Week3
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 [352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
 [15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
 [16. 3Sum closest(M)](https://leetcode.com/problems/3sum-closest/)  
-[259. 3Sum smaller(M)](https://leetcode.com/problems/3sum-smaller/)   
-[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)   
-[436. Find Right Interval (M)](https://leetcode.com/problems/find-right-interval/)   
-[402. Remove K digits (M)](https://leetcode.com/problems/remove-k-digits/)   
-[496. Next Greater Element I (E)](https://leetcode.com/problems/next-greater-element-i/)   
-[503. Next Greater Element II (M)](https://leetcode.com/problems/next-greater-element-ii/)   
-[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)   
+[259. 3Sum smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
+[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)  
+[436. Find Right Interval (M)](https://leetcode.com/problems/find-right-interval/)  
+[402. Remove K digits (M)](https://leetcode.com/problems/remove-k-digits/)  
+[496. Next Greater Element I (E)](https://leetcode.com/problems/next-greater-element-i/)  
+[503. Next Greater Element II (M)](https://leetcode.com/problems/next-greater-element-ii/)  
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  
+
+## Week4
+[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
