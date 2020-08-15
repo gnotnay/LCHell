@@ -52,3 +52,4 @@
 
 ## Week4
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[946. Validate Stack Sequence (M)](https://leetcode.com/problems/validate-stack-sequences/)  
