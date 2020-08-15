@@ -12,8 +12,7 @@
 12. 友好交流，不得言语嘲讽，消极回答
 13. Happy Coding!
 
-## Week1
-
+## Week1  
 [103. Binary Tree Zigzag Level Order Traversal (M)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
 [1104. Path In Zigzag Labelled Binary Tree (M)](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  
 [763. Partition Labels (M)](https://leetcode.com/problems/partition-labels/)  
@@ -24,20 +23,18 @@
 [154. Find Minimum in Rotated Sorted Array II (H)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)  
 [1529. Bulb Switcher IV (M)](https://leetcode.com/problems/bulb-switcher-iv/)  
 [209. Minimum Size Subarray Sum (M)](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/)  
-[1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
+[1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)  
 
-## Week2
-
+## Week2  
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
 [934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
 [1361. Validate Binary Tree Nodes (M)](https://leetcode.com/problems/validate-binary-tree-nodes/)  
 [723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
-[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)
+[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)  
 
-## Week3
-
+## Week3  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 [352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
 [15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
@@ -48,7 +45,9 @@
 [402. Remove K digits (M)](https://leetcode.com/problems/remove-k-digits/)  
 [496. Next Greater Element I (E)](https://leetcode.com/problems/next-greater-element-i/)  
 [503. Next Greater Element II (M)](https://leetcode.com/problems/next-greater-element-ii/)  
-[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  
 
 ## Week4
-[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
+[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
+[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
