@@ -48,6 +48,8 @@
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  
 
 ## Week4
+[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[946. Validate Stack Sequence (M)](https://leetcode.com/problems/validate-stack-sequences/)  
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
