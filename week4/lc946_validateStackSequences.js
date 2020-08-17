@@ -4,8 +4,6 @@
  * @return {boolean}
  */
 var validateStackSequences = function(pushed, popped) {
-    if(pushed.length === 0) return true;
-    
     let temp = [];
     let i = 0;
     for(let num of pushed) {
