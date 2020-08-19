@@ -53,4 +53,7 @@
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)  
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
-[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)  
+
+## Week5
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)  
