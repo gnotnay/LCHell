@@ -13,7 +13,6 @@
 13. Happy Coding!
 
 ## Week1
-
 [103. Binary Tree Zigzag Level Order Traversal (M)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
 [1104. Path In Zigzag Labelled Binary Tree (M)](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  
 [763. Partition Labels (M)](https://leetcode.com/problems/partition-labels/)  
@@ -27,7 +26,6 @@
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 
 ## Week2
-
 [1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
 [934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
@@ -37,7 +35,6 @@
 [361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)
 
 ## Week3
-
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 [352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
 [15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
@@ -51,12 +48,14 @@
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 
 ## Week4
-
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 [946. Validate Stack Sequence (M)](https://leetcode.com/problems/validate-stack-sequences/)  
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)  
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
 [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)  
+
+## Week5  
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)  
 [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  
 [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)  
