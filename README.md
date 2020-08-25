@@ -38,7 +38,6 @@
 
 ## Week3
 
-[146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
 [352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
 [15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
 [16. 3Sum closest(M)](https://leetcode.com/problems/3sum-closest/)  
@@ -54,7 +53,6 @@
 
 [1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 [946. Validate Stack Sequence (M)](https://leetcode.com/problems/validate-stack-sequences/)  
-[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)  
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
 [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)  
@@ -63,4 +61,11 @@
 [986. Interval List Intersection (M)](https://leetcode.com/problems/interval-list-intersections/)  
 [253. Meeting Room || (M)](https://leetcode.com/problems/meeting-rooms-ii/)  
 [281. Zigzag iterator (M)](https://leetcode.com/problems/zigzag-iterator/)  
+[759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+[901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
+
+## Week5
+[406. Queue Reconstruction by Height (M)](https://leetcode.com/problems/queue-reconstruction-by-height/)  
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
