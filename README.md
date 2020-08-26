@@ -27,40 +27,48 @@
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array (H)](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 
 ## Week2
-
-[1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
-[934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
+[259. 3Sum smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
 [1247. Minimum Swaps to Make Strings Equal (M)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)  
 [1361. Validate Binary Tree Nodes (M)](https://leetcode.com/problems/validate-binary-tree-nodes/)  
-[723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
 [146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
-[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)
-
-## Week3
-
-[146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
-[352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
+[1530. Number of Good Leaf Nodes Pairs (M)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)  
 [15. 3 sum (M)](https://leetcode.com/problems/3sum/)  
 [16. 3Sum closest(M)](https://leetcode.com/problems/3sum-closest/)  
-[259. 3Sum smaller(M)](https://leetcode.com/problems/3sum-smaller/)  
-[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)  
+[361. Bomb Enemy(M)](https://leetcode.com/problems/bomb-enemy/)  
 [436. Find Right Interval (M)](https://leetcode.com/problems/find-right-interval/)  
+[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)  
+[934. Shortest Bridge (M)](https://leetcode.com/problems/shortest-bridge/)  
+[723. Crush Candy (M)](https://leetcode.com/problems/candy-crush/)  
+[146. LRU cache (M)](https://leetcode.com/problems/lru-cache/)  
+
+
+## Week3
+[352. Data Stream as Disjoint Intervals (H)](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  
+[445. Add Two Numbers II (M)](https://leetcode.com/problems/add-two-numbers-ii/)  
 [402. Remove K digits (M)](https://leetcode.com/problems/remove-k-digits/)  
 [496. Next Greater Element I (E)](https://leetcode.com/problems/next-greater-element-i/)  
 [503. Next Greater Element II (M)](https://leetcode.com/problems/next-greater-element-ii/)  
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+[454. 4Sum II (M)](https://leetcode.com/problems/4sum-ii/)  
+[456. 132 Pattern (M)](https://leetcode.com/problems/132-pattern/)  
+[496. Next Greater Element I (E)](https://leetcode.com/problems/next-greater-element-i/)  
+[503. Next Greater Element II (M)](https://leetcode.com/problems/next-greater-element-ii/)  
 
 ## Week4
 
-[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
 [946. Validate Stack Sequence (M)](https://leetcode.com/problems/validate-stack-sequences/)  
-[1283. Find the Smallest Divisor Given a Threshold (M)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)  
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
-[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)  
 [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  
 [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 
 ## Week5
 
+[785. Is Graph Bipartite? (M)](https://leetcode.com/problems/is-graph-bipartite/)  
 [406. Queue Reconstruction by Height (M)](https://leetcode.com/problems/queue-reconstruction-by-height/)  
+[1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)  
+[986. Interval List Intersection (M)](https://leetcode.com/problems/interval-list-intersections/)  
+[253. Meeting Room || (M)](https://leetcode.com/problems/meeting-rooms-ii/)  
+[281. Zigzag iterator (M)](https://leetcode.com/problems/zigzag-iterator/)  
+
